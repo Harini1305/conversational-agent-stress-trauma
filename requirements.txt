@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+tensorflow
+transformers
+scikit-learn
+numpy

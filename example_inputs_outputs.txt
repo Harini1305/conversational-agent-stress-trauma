@@ -1,0 +1,10 @@
+Example Conversation:
+
+You: I don't feel like doing anything today.
+Bot: I'm here for you. Would you like to talk about it?
+
+BERT Emotion: sadness (0.88) → Stress: High  
+LSTM Emotion: sad (0.84) → Stress: High
+
+You: exit
+Bot: Take care! 💙
