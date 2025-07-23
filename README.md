@@ -121,7 +121,7 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♀️ Author
 
-Created by **[Your Name]**
+Created by **Harini Muthukumar**
 
 Feel free to star ⭐ the repository and contribute!
 
